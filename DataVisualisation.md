@@ -10,7 +10,7 @@ This was contributed by
 b.kuper-smith@uke.de
 on 12. December 2019
 
-# --------------------------------------------------------------------------
+------
 
 ### Why you should stop using bar plots. Now.
 
@@ -39,3 +39,4 @@ This was contributed by
 t.lonsdorf@uke.de
 on 12. December 2019
 
+----
