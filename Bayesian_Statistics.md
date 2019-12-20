@@ -51,10 +51,58 @@ on 12. December 2019
 
 # -----------------------------------------------------------------------------
 
-
+#### A course on Bayesian approaches to fit parameters of cognitive models:
 Not a course on Bayesian models of cognition (as in predictive coding), but a course on Bayesian approaches to fit parameters of cognitive models. Maybe worth it as a shortcut if you want to start modeling right away, but you learn the same and much more if you choose Krusche or McElreath as main source.
 
 
 Lee, M.D. & Wagenmakers, E.-J. (2014): Bayesian Cognitive Modeling: A Practical Couse. Cambridge University Press.
+
+This was contributed by:
+l.neugebauer@uke.de
+on 12. December 2019
+
+#---------------------------------------------------------------------------------
+
+#### Documentation on STAN
+Excellent documentation of STAN, the recommended tool for Bayesian analysis. Is separated into different parts, the “User guide” can be considered an example-driven introduction to Bayesian modeling. Whenever you have a question about STAN, ask the documentation first and you’ll likely find it. If you want to fit a model, look for a similar example here. 
+
+The STAN documentation: https://mc-stan.org/users/documentation/
+
+This was contributed by:
+l.neugebauer@uke.de
+on 12. December 2019
+
+#------------------------------------------------------------------------------------
+
+#### Betancourt's Bayesian world
+Everything by Michael Betancourt. He’s a physicist gone statistician and probably the person I’ve learned the most from in terms of Bayesian anything. It’s so good, I even pay for his patreon to listen to his podcast with Dan Simpson. Has case studies ranging from simple regression models to robust workflow and diagnosing divergences in hierarchical models. Sometimes a bit technical if you just get started. 
+
+Link to Michael Betancourt’s case studies:
+https://betanalpha.github.io/writing/
+
+Some Highlights:
+https://betanalpha.github.io/assets/case_studies/rstan_workflow.html
+
+https://github.com/betanalpha/knitr_case_studies/tree/master/weakly_informative_shapes
+
+This was contributed by:
+l.neugebauer@uke.de
+on 12. December 2019
+
+#------------------------------------------------------------------------------------------
+
+#### Some interesting blogs: 
+Andrew Gelman (and guest authors) on more technical details and discussion of statistical mistakes in published research. Highly opinionated and thus entertaining but tends to be super technical. 
+Thomas Wiecki was PhD student with Michael Frank and is now Data Science head at Quantopian and core developer for PyMC3 (Python alternative to STAN). Extremely accessible blog entries. 
+
+Gelman:
+https://statmodeling.stat.columbia.edu/
+Thomas Wiecki:
+https://twiecki.io/
+
+This was contributed by:
+l.neugebauer@uke.de
+on 12. December 2019
+
 
 
