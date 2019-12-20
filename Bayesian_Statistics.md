@@ -16,7 +16,7 @@ Get a good grasp of the basic concepts. What is probability, what is a prior, wh
 Keep learning with more specific resources when needed or when you want to.
 
 
-### Probably the best approach to learning Bayes out there:
+### Probably the best approach to learning Bayes out there
 Complete course using R and STAN. There is a port for PyMC3 (as alternative to STAN) for the first edition. Not yet for the second edition. The author is an anthropologist and not a statistician and it shows in his approach to teaching. Lecture series is available on youtube and highly recommended. Potentially new versions will be uploaded and constantly get better. Focusses on code more than formal math and tries to be accessible. 
 
 ##### Lecture series: 
@@ -27,12 +27,12 @@ https://xcelab.net/rm/sr2/
 
 Password is at end of 2nd lecture (I think “tempest”).
 
-### This is THE book on Bayesian data analysis:
+### This is THE book on Bayesian data analysis
 Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A. & Rubin, D. B. (2013): Bayesian Data Analysis 3rd edn, Chapman and Hall.
 
 However, it’s probably too technical, too mathematical and too in-depth to get you started. Buy it, have it lying around to impress people and use it as a reference when you’re done with McElreath’s course. E.g. read chapter 7 to understand problems of Bayes Factors.
 
-### A course on Bayesian approaches to fit parameters of cognitive models:
+### A course on Bayesian approaches to fit parameters of cognitive models
 Not a course on Bayesian models of cognition (as in predictive coding), but a course on Bayesian approaches to fit parameters of cognitive models. Maybe worth it as a shortcut if you want to start modeling right away, but you learn the same and much more if you choose Krusche or McElreath as main source.
 
 Lee, M.D. & Wagenmakers, E.-J. (2014): Bayesian Cognitive Modeling: A Practical Couse. Cambridge University Press.
@@ -53,7 +53,7 @@ https://betanalpha.github.io/assets/case_studies/rstan_workflow.html
 
 https://github.com/betanalpha/knitr_case_studies/tree/master/weakly_informative_shapes
 
-### Some interesting blogs: 
+### Some Interesting Blogs
 Andrew Gelman (and guest authors) on more technical details and discussion of statistical mistakes in published research. Highly opinionated and thus entertaining but tends to be super technical. 
 Thomas Wiecki was PhD student with Michael Frank and is now Data Science head at Quantopian and core developer for PyMC3 (Python alternative to STAN). Extremely accessible blog entries. 
 
