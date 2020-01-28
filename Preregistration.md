@@ -33,7 +33,6 @@ https://psyarxiv.com/x36pz/
 #### Preregistration of secondary data analyses
 
 https://journals.sagepub.com/doi/10.1177/2515245919848684
-
 Weston, S. J., Ritchie, S. J., Rohrer, J. M., & Przybylski, A. K. (2019). Recommendations for Increasing the Transparency of Analysis of Preexisting Data Sets. Advances in Methods and Practices in Psychological Science, 2(3), 214–227. https://doi.org/10.1177/2515245919848684
 
 This was contributed by:  
