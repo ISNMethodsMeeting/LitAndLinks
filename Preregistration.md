@@ -15,8 +15,8 @@ on 12. December 2019
 #### Preregistration is a methodological skill that takes time to develop.
 
 A short commentary about the process of learning how to preregister (I found the first preregistration quite tough but it gets much easier with practice)
-https://www.sciencedirect.com/science/article/abs/pii/S1364661319301846
 
+https://www.sciencedirect.com/science/article/abs/pii/S1364661319301846
 Nosek, B. A., Beck, E. D., Campbell, L., Flake, J. K., Hardwicke, T. E., Mellor, D. T., ... & Vazire, S. (2019). Preregistration is hard, and worthwhile. Trends in cognitive sciences, 23(10), 815-818.
 
 This was contributed by:  
