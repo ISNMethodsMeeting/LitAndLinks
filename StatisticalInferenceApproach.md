@@ -19,14 +19,14 @@ In this brief Viewpoint, John Ioannidis argues for statistical significance and 
 https://jamanetwork.com/journals/jama/article-abstract/2730486
 Ioannidis, J. P. (2019). The importance of predefined rules and prespecified statistical analyses: Do not abandon significance. Jama, 321(21), 2067-2068.
 
-The second article is a similar editorial by Ulrich Dirnagl that also argues for significance testing
+This article is a similar editorial by Ulrich Dirnagl that also argues for significance testing
 
 https://link.springer.com/article/10.1007/s00259-019-04467-5
 Dirnagl, U. (2019). The p value wars (again). European Journal of Nuclear Medicine and Molecular Imaging
 
-This was contributed by:
-b.kuper-smith@uke.de
-on 12. December 2019
+This was contributed by:  
+b.kuper-smith@uke.de  
+on 12. December 2019  
 
 ----------------------
 
@@ -34,9 +34,9 @@ on 12. December 2019
 
 Lakens, D. et al. (2017). Justify your alpha: A response to “redefine statistical significance”. DOI: 10.17605/OSF.IO.9S3Y6
 
-This was contributed by:
-t.lonsdorf@uke.de
-on 12. December 2019
+This was contributed by:  
+t.lonsdorf@uke.de  
+on 12. December 2019  
 
 ----------------------
 
