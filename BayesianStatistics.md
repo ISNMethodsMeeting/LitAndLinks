@@ -62,9 +62,9 @@ https://statmodeling.stat.columbia.edu/
 Thomas Wiecki:
 https://twiecki.io/
 
-This was contributed by:
-l.neugebauer@uke.de
-on 12. December 2019
+This was contributed by:  
+l.neugebauer@uke.de  
+on 12. December 2019  
 
 -----------
 
