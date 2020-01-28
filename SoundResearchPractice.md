@@ -4,13 +4,13 @@
 
 https://www.ncbi.nlm.nih.gov/pubmed/22006061
 Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5122713/
 Wicherts, J. M., Veldkamp, C. L., Augusteijn, H. E., Bakker, M., Van Aert, R. C., & Van Assen, M. A. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking. Frontiers in psychology, 7.
 
 #### The garden of forking paths: multiple comparisons and researchers degrees of freedom
 
 http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf
-
 Gelman, A., & Loken, E. (n.d.). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “ﬁshing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. 17.
 
 #### Questionable Research Practices in the neuroscience
@@ -21,7 +21,6 @@ Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., 
 #### Power problems in cog neuro
 
 Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature Reviews Neuroscience, 14(5), 365-376.
-
 https://www.ncbi.nlm.nih.gov/pubmed/23571845
 
 Cremers, H. R., Wager, T. D., & Yarkoni, T. (2017). The relation between statistical power and inference in fMRI. PloS one, 12(11), e0184923.
@@ -47,5 +46,5 @@ This was contributed by:
 t.lonsdorf@uke.de  
 on 12. December 2019  
 
-
+-------------------------------------
 
