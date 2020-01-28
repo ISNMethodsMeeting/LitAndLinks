@@ -30,9 +30,17 @@ on 12. December 2019
 
 ----------------------
 
+The difference between significant and non-significant is not itself statistically significant
+
+https://www.nature.com/articles/nn.2886
+
+https://amstat.tandfonline.com/doi/abs/10.1198/000313006X152649
+
+
 ### Justify your alpha
 
 Lakens, D. et al. (2017). Justify your alpha: A response to “redefine statistical significance”. DOI: 10.17605/OSF.IO.9S3Y6
+
 
 This was contributed by:  
 t.lonsdorf@uke.de  
