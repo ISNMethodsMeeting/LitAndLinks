@@ -12,3 +12,24 @@ on 12. December 2019
 
 ---------------------------
 
+
+Ten common statistical mistakes when reviewing or writing a manuscript
+
+
+https://elifesciences.org/articles/48175
+
+
+
+
+
+
+The new statistics 
+
+https://journals.sagepub.com/doi/10.1177/0956797613504966
+
+
+This was contributed by:  
+t.lonsdorf@uke.de  
+on 12. December 2019  
+
+-----------------------------
