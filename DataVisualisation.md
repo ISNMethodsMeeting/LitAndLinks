@@ -6,9 +6,9 @@ https://www.autodeskresearch.com/publications/samestats
 
 Note: the link describes a paper (Matejka, J., & Fitzmaurice, G. (2017, May). Same stats, different graphs...), in which the authors provide ways to create these different datasets with same stats; you don’t need to read the paper, just seeing the animations on the website should be enough to stop you from using bar graphs and similar visualisations that don’t show individual data points. Make sure to look at the animations for boxplots too
 
-This was contributed by
-b.kuper-smith@uke.de
-on 12. December 2019
+This was contributed by  
+b.kuper-smith@uke.de  
+on 12. December 2019  
 
 ------
 
@@ -35,8 +35,8 @@ https://www.nature.com/articles/s41592-019-0470-3
 Ho, J., Tumkaya, T., Aryal, S., Choi, H., & Claridge-Chang, A. (2019). Moving beyond P values: Data analysis with estimation graphics. Nature Methods, 16(7), 565–566. https://doi.org/10.1038/s41592-019-0470-3
 
 
-This was contributed by
-t.lonsdorf@uke.de
-on 12. December 2019
+This was contributed by  
+t.lonsdorf@uke.de  
+on 12. December 2019  
 
 ----
