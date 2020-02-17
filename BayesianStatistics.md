@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSTo
 Second ed. of book not published yet but is definitely the better one, so use it. The draft can be downloaded here: 
 https://xcelab.net/rm/sr2/
 
-Password is at end of 2nd lecture (I think “tempest”).
+Password is at end of 2nd lecture.
 
 ### This is THE book on Bayesian data analysis
 Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A. & Rubin, D. B. (2013): Bayesian Data Analysis 3rd edn, Chapman and Hall.
