@@ -2,10 +2,16 @@
 
 ## tl;dr:
 
+(there are links)
+
 [Precalculus](https://www.edx.org/course/college-algebra-and-problem-solving)
+
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
 [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+
 [Probability Theory](https://projects.iq.harvard.edu/stat110/home)
 
 Maybe you've encountered a few papers that were full of integrals and you had no idea what to do with them. Or you're conducting an analysis that you don't really understand but would like to. Or maybe you just feel as someone who works with data and mathematical models for a living, you should have at least some basic skills in mathematics. Or maybe you just feel like it could be fun. Here's the approach I used to get into math, maybe it can be useful for you. Luckily it has never been easier because we live in a world where we can get Ivy League education for free. What a time to be alive!
