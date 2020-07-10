@@ -48,3 +48,7 @@ Unfortunately, they kind of rely on each other and on more basic stuff like basi
 
 The most consistent thing is consistency. And probably the best predictor for consistency is accountability. You can get this if you find another person that is as serious about it as you and do it together. Watch a lecture, read the corresponding part in the book and meet for exercises. Skype works well for that. I would advise against larger groups, these tend to slow down. Someone always has an appointment and so on. 
 Also, understand that this is a long time process. If you're doing one lecture a week, the above will take you more than 2 years. But it's most certainly not something that you will regret having done afterwards.
+
+
+
+added by l.neugebauer@uke.de on 10. July 2020
