@@ -1,12 +1,19 @@
 ### Introduction to Statistics
-Supposed to be a very good general introduction to statistics using R, so you learn some R one the way if you don’t know it yet. There’s ports for other languages as well. Haven’t done it myself but it is supposed to be very good and contains what you should know after an introductory stats course in psychology undergrad.
-https://learningstatisticswithr.com/
 
-The author is Danielle Navarro, the link should tell you everything you need to know.
+Here's two free online textbooks aimed at undergrad psychology students. Since most of us got shitty stats education, they're a good way to brush it up or relearn. They're both focussing on frequentist statistics, but have a chapter dedicated to Bayesian stats. If you want to learn Bayesian stats instead, have a look at _BayesianStatistics.md_ instead.
+
+Danielle Navarrao: [Learning statistics with R](https://learningstatisticswithr.com/)
+Russ Poldrack: [Statistical thinking for the 21st century](https://statsthinking21.github.io/statsthinking21-core-site/)
+
+Both use R and both can be used pretty interchangeably as far as I can tell. I read through Navarro's ANOVA chapter and had a peak at Poldrack's book. Navarro's book is very clearly written and as entertaining as a stats textbook can be. I can't say a lot about Poldrack's book. I assume they're both very good introductions, but there's two potential drawbacks that are common to both:
+
+  * They're both introductory, as in they don't cross a certain level of depth. It's enough to apply the stuff and a even a bit beyond that, but you won't actually understand _why_ the central limit theorem works, e.g.. That'scompletely fine for an introductory book but if you want to go deeper, I recommend a formal introduction to probability (see _LearningMathematics.md_). 
+  * As far as I can tell they both don't come with dedicated exercises. In my opinion you don't actually learn something without applying it to problems. 
 
 This was contributed by:  
 l.neugebauer@uke.de  
 on 12. December 2019  
+and edited on 10. July 2020
 
 ---------------------------
 ### Miscellaneous
