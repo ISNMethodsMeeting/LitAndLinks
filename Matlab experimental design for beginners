@@ -1,0 +1,22 @@
+**How to start:**
+
+If you want to present an experiment using Matlab, you will need a Toolbox (a set of commands and subfuntions), that is able to present stimuli and that is able to insure the timing of the presentation.
+The toolbox most common is the Psychtoolbox. The Psychtoolbox is a Toolbox for Matlab, created to show visual or auditory stimuli in an experiment. 
+http://psychtoolbox.org/
+
+The Psychtoolbox does NOT offer a user interface (like PsychoPy). It will require basic understanding of code and the logic behind programming. 
+
+**Basics**
+The basis for programming with Matlab can be learnt in the Tutorials of Mathworks (Matlab). Here you can get a basic understanding of the logic of Matlab. E.g. the use of arrays etc.
+https://www.mathworks.com/learn/tutorials/matlab-onramp.html
+
+**The important functions**
+The next step to your first experiment is to understand the most important functions of the Psychtoolbox. I recommend the talks of Volodimir B. Bogdanov:
+https://www.youtube.com/watch?v=24Bhz_F1QKs
+
+And the talks of jianglab: 
+
+https://www.youtube.com/watch?v=5Sskr9m-UtQ
+
+Both talkers provide scripts for the experiments they try to explain. They are helpful to understand the basic logic behind loops etc.
+Contributed by c.wittkamp@uke.de
